@@ -1,0 +1,8 @@
+#join文字列
+words = ["the", "fox", "jumped", "over", "the", "fence", "."]
+one = "".join(words)
+print(one)
+
+one = " ".join(words)
+print(one)
+
